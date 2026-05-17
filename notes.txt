@@ -26,3 +26,27 @@ you can tell them and ask hoe they feel about the idea
 if you expect certain things to be done or have some boundaries respected
 dont request it, order it 
 please do your homework vs go do your homework.
+
+
+TODO:
+- find a flower that represents the theme (hint: celestial flowers)
+
+
+
+now
+https://www.youtube.com/watch?v=xiSuX0f1mEI&list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&index=2
+
+
+nextjs tutorial to check
+https://www.youtube.com/watch?v=NgayZAuTgwM
+https://www.youtube.com/watch?v=KjY94sAKLlw
+https://www.youtube.com/watch?v=aZZrEE_UsIk
+https://www.youtube.com/watch?v=wi8kF8UniUI&list=PLZlA0Gpn_vH8Bqoo3cG2tpSwiZ2VZyu51
+https://www.youtube.com/watch?v=GznmPACXBlY
+https://www.youtube.com/watch?v=1WmNXEVia8I&t=367s
+https://www.youtube.com/watch?v=QdxUZhLHZiA
+https://www.youtube.com/watch?v=GznmPACXBlY
+https://www.youtube.com/watch?v=YTwoYELWMqw&list=PLN3n1USn4xllTjmWu82o_7ej5vNZlR8BH
+
+https://roadmap.sh/roadmaps
+https://www.reddit.com/r/webdev/comments/ttxck1/the_best_online_courses_to_learn_web_developing/
