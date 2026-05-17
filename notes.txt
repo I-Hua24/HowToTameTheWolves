@@ -50,3 +50,89 @@ https://www.youtube.com/watch?v=YTwoYELWMqw&list=PLN3n1USn4xllTjmWu82o_7ej5vNZlR
 
 https://roadmap.sh/roadmaps
 https://www.reddit.com/r/webdev/comments/ttxck1/the_best_online_courses_to_learn_web_developing/
+
+
+
+
+
+app/
+│
+├── page.tsx                  // homepage
+├── layout.tsx                // global layout
+├── globals.css
+│
+├── blog/
+│   ├── page.tsx              // all blog posts
+│   └── [slug]/
+│       └── page.tsx          // individual post
+│
+├── projects/
+│   ├── page.tsx
+│   └── [slug]/
+│       └── page.tsx
+│
+├── dreams/
+│   └── page.tsx
+│
+├── about/
+│   └── page.tsx
+│
+├── constellation/
+│   └── page.tsx
+│
+components/
+│
+├── layout/
+│   ├── Navbar.tsx
+│   ├── Footer.tsx
+│   └── Sidebar.tsx
+│
+├── ui/
+│   ├── Button.tsx
+│   ├── Card.tsx
+│   └── Tag.tsx
+│
+├── blog/
+│   └── BlogCard.tsx
+│
+├── projects/
+│   └── ProjectCard.tsx
+│
+lib/
+│
+├── posts.ts
+├── projects.ts
+└── utils.ts
+│
+content/
+│
+├── blog/
+├── projects/
+└── ideas/
+
+
+
+
+app/
+│
+├── layout.tsx
+├── page.tsx
+├── globals.css
+│
+└── (pages)/
+    │
+    ├── blog/
+    │   ├── page.tsx
+    │   └── [slug]/
+    │       └── page.tsx
+    │
+    ├── projects/
+    │   ├── page.tsx
+    │   └── [slug]/
+    │       └── page.tsx
+    │
+    ├── dreams/
+    │   └── page.tsx
+    │
+    └── about/
+        └── page.tsx
