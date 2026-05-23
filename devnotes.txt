@@ -1,0 +1,30 @@
+TODO
+i created a global.css in app/styles folder
+but i learned there's already another global.css
+fix that and learn layout.tsx
+
+
+
+
+
+
+
+global.css
+basic header component
+basic side navigation component
+
+
+
+bonus 
+dream header
+- start big and shrinks when scrolled up
+Footer component
+
+
+brainstorm
+i would like to have cold background with warm highlights
+i would like to use the following as the base color for the background
+https://imagecolorpicker.com/color-code/8000ff
+however i worry that individuals will come on my websiter late at night 
+and the last thing i wanted to do was blast them with blue light.
+

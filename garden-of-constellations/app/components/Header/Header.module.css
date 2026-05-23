@@ -1,0 +1,11 @@
+
+
+.header {
+  padding: 16px;
+  border-bottom: 1px solid var(--accent);
+}
+
+.h1 {
+  font-size: 24px;
+  font-weight: bold;
+}

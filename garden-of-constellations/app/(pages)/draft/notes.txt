@@ -136,3 +136,88 @@ app/
     │
     └── about/
         └── page.tsx
+
+
+
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY
+
+
+NEXT.JS TRAVEL BLOG LEARNING ROADMAP
+
+PHASE 1 — BASIC BLOG WITH MARKDOWN
+[ ] Learn App Router structure
+[ ] Create dynamic routes with [slug]
+[ ] Create content/ folder
+[ ] Add .md blog files
+[ ] Read markdown files from filesystem
+[ ] Render markdown content on pages
+[ ] Learn async/await basics
+[ ] Generate blog pages dynamically
+
+PHASE 2 — CONTENT ORGANIZATION
+[ ] Add frontmatter metadata
+[ ] Add title/date/tags/categories
+[ ] Create blog listing page
+[ ] Sort posts by date
+[ ] Add pagination
+[ ] Add cover images
+[ ] Organize content folders
+
+PHASE 3 — IMPROVE UI/UX
+[ ] Create reusable layouts
+[ ] Add navigation
+[ ] Add dark/light theme
+[ ] Improve typography
+[ ] Add responsive design
+[ ] Add loading states
+[ ] Add SEO metadata
+
+PHASE 4 — MDX UPGRADE
+[ ] Learn MDX
+[ ] Convert .md → .mdx
+[ ] Embed React components in posts
+[ ] Add custom components:
+    [ ] image gallery
+    [ ] travel cards
+    [ ] maps
+    [ ] alerts/callouts
+
+PHASE 5 — ADVANCED CONTENT FEATURES
+[ ] Add search
+[ ] Add filtering by tags/categories
+[ ] Add related posts
+[ ] Add table of contents
+[ ] Add syntax highlighting
+[ ] Add reading time estimation
+
+PHASE 6 — CONTENT MANAGEMENT
+[ ] Decide between:
+    [ ] Headless CMS
+    [ ] Custom admin dashboard
+[ ] Learn authentication basics
+[ ] Learn protected admin routes
+[ ] Create editor dashboard
+[ ] Add draft/publish workflow
+[ ] Add image upload system
+
+PHASE 7 — DATABASE (ONLY WHEN NEEDED)
+[ ] Learn database basics
+[ ] Learn Prisma ORM
+[ ] Learn PostgreSQL
+[ ] Move posts from files → database
+[ ] Keep abstraction layer:
+    getPost(slug)
+[ ] Add relational data:
+    [ ] users
+    [ ] comments
+    [ ] likes
+    [ ] bookmarks
+
+PHASE 8 — DEPLOYMENT & SCALING
+[ ] Deploy app
+[ ] Learn environment variables
+[ ] Optimize images
+[ ] Add caching
+[ ] Add analytics
+[ ] Add backups
+[ ] Improve performance
