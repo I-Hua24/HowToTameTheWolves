@@ -1,8 +1,6 @@
 TODO
-i created a global.css in app/styles folder
-but i learned there's already another global.css
-fix that and learn layout.tsx
-
+study how to use layout.tsx
+several other things to do before starting your web of info
 
 
 
@@ -16,15 +14,21 @@ basic side navigation component
 
 
 bonus 
-dream header
-- start big and shrinks when scrolled up
-Footer component
+- dream header
+-- start big and shrinks when scrolled up
+- Footer component
+- find fonts i want thin hand drawn map cartegrapher or proffessional space vibes
 
 
-brainstorm
+
+BRAINSTORMS
+--------------
 i would like to have cold background with warm highlights
 i would like to use the following as the base color for the background
 https://imagecolorpicker.com/color-code/8000ff
 however i worry that individuals will come on my websiter late at night 
 and the last thing i wanted to do was blast them with blue light.
 
+find more about asian color theory to have 2 highlight colors
+i noticed that eastern art uses a lot of purple for highlight color  
+and streaks of light blue in the background for neon futuristic art

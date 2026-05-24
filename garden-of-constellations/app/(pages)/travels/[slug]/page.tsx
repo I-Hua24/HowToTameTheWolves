@@ -1,6 +1,5 @@
 import Link from "next/dist/client/link";
 import Header from "../../../components/Header/Header";
-import "../../../styles/globals.css";
 
 export default async function TravelPage({ // we need to make the component async to use await inside it
   params,
