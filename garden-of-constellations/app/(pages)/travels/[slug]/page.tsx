@@ -1,5 +1,4 @@
 import Link from "next/dist/client/link";
-import Header from "../../../components/Header/Header";
 
 export default async function TravelPage({ // we need to make the component async to use await inside it
   params,
@@ -10,7 +9,6 @@ export default async function TravelPage({ // we need to make the component asyn
   return (
     <main className="max-w-3xl mx-auto p-6">
 
-      <Header /> 
       <h1 className="text-4xl font-bold">
         {slug}
       </h1>

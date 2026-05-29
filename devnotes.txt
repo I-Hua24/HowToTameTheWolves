@@ -1,5 +1,5 @@
 TODO
-study how to use layout.tsx
+learn to transalte .md into a site
 several other things to do before starting your web of info
 
 

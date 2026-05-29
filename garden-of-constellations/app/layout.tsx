@@ -8,6 +8,8 @@ import { Geist, Geist_Mono } from "next/font/google";
 // Global CSS file (applies styles across the entire app)
 import "./globals.css";
 
+import Link from "next/link";
+
 // -----------------------------
 // Font setup (CSS variable-based)
 // -----------------------------
@@ -69,7 +71,29 @@ export default function RootLayout({
             (useful for layouts like header → content → footer)
         */}
 
+        {/* Simple header with navigation links */}
+        <header>
+          <Link href="/">
+            <h1 className="h1">Garden of Constellations</h1>
+          </Link>
+          
+            <ul>
+              <li>
+                <Link href="/">Home</Link>
+              </li>
+              <li>
+                <Link href="/travels">Travels</Link>
+              </li>
+            </ul>
+          
+        </header>
+
         {children}
+
+        <footer>
+          @copyright 2024 Garden of Constellations. All rights reserved.
+        </footer>
+
         {/*
           This is where all pages render.
           In Next.js App Router, every route is injected here.

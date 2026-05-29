@@ -1,10 +1,9 @@
 import Link from "next/dist/client/link";
-import Header from "../../components/Header/Header";
 
 export default function TravelsPage() {
     return (
         <main>
-            <Header />
+         
          
 
             <p>
