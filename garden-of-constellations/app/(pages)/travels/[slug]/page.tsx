@@ -1,4 +1,4 @@
-import Link from "next/dist/client/link";
+import Link from "next/link";
 
 export default async function TravelPage({ // we need to make the component async to use await inside it
   params,
