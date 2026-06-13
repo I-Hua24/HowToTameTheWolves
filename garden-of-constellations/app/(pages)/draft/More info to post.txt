@@ -73,25 +73,62 @@ https://dynasty-scans.com/authors/mikanuji
 
 
 edc 
--find a smallest climbing carabiner clip
---black diamon, pretzl are some of the trusted brands
--there exists much thinner leather to make thinner wallet
--wallet with hidden knife -> if solved, can replace blade with key
+- find a smallest climbing carabiner clip
+ - start with non climbing but strong carabiner 
+     - at least 75kg or even better 150kg
+     - hammock minimum needs 5kN or 500kg
+     - climbing 25kN is overkill
+     - https://www.reddit.com/r/preppers/comments/yrkpgk/best_carabiners_for_emergency_use/
+ - end with 2 fav carabiners 
+ - final goal 20-25kN (minimum for both kids and adult size) 
+     - note that carabiner isnt the main fall breaker,
+       dynamic rope stretch and belayer are the key players 
+     - trusted brands (there's other lesser knowns)
+         - Black Diamond
+         - Petzl
+         - CAMP
+         - Mammut
+         - DMM Wales
+     - dont buy on amazon
+     - "climbing gear in [your city] reddit" for trusted stores
+- there exists much thinner leather to make thinner wallet
+- wallet with hidden knife -> if solved, can replace blade with key
 - indestructible mechanical pencil (reddit)
+- i noticed that they love pocket knife 
+  then i occasioonally see some people with pocket knife and box cutter
+  todo: research why pocket knife is prefered over boxcutter
+- i noticed that people oftern have every day use items like pen wallet and phone 
+  plus emergency use like knife and lighter and flashlight and multitool
+  and emergency is split into wilderness survival and self defence 
+  and self denfence has to be quick deployable
+  however look hot to put away wilderness survival
+- i want gender neutral watch
+- lighter = a survial essential unless there's dif way to start fire
+  but idk if i go for cheap and light bic 
+  or personal custom refillable heavy lighter
 
 
-
+best time for entertainment or intense hobbies so far is after dinner 
+before night routine starts
+chatgpt:  17h30-19h00 or 20h-21h
 
 recipes
 https://www.maangchi.com
 
 
-entertainment
+Entertainment
 grew up watching stickman fight choreogrphy and i want to find them again
 marvel series 
 jackie chan
 donnie yen
-
+the way of house husband but the lack of animation felt jarring
+sakamoto’s day too gory for night watches
+chatgpt recommended:
+    violet evergarden: Beautiful and calm, but more emotional than Frieren,Some episodes hit very hard. I’d save this for nights where you want reflective rather than purely comfy
+    The Apothecary Diaries :vibe is relaxed, dialogue-driven, visually pretty, and not emotionally overwhelming most episodes
+    Natsume’s Book of Friends
+    Laid-Back Camp
+    Kino’s Journey
 
 learning from electronic/machine guy
 automation studio is one of versatil apps to see if designed machine will suceed
@@ -113,12 +150,50 @@ raising kids:
 wanna do some fun and risky things like gunpowder, learn respect first
 
 
-EDC
-carabiner
- - at least 75kg or even better 150kg
- - hammock minimum needs 5kN or 500kg
- - climbing 25kN is overkill
+
+
+sleep deprived? sleep 2 hours earlier than usual
 
 
 
+dream home 
+ - use wooden studs for cold climate aka canada
+ - find balance between window for sunlight and walls for privacy
+ - Room type	                Good ceiling height for acoustics
+  Bedroom / cozy media room	8–9 ft (2.4–2.7 m)
+  Living room	            8.5–10 ft (2.6–3 m)
+  Music studio	            Depends heavily on treatment, but often 9–12 ft (2.7–3.7 m)
+  Home theater	            8–9 ft is often preferred
+ - Most residential room ceiling heights are around:
+    - 8 ft (2.44 m) — very common in older homes and apartments
+    - 9 ft (2.74 m) — common in newer homes; feels more open
+    - 10–12 ft (3–3.7 m) — larger/luxury spaces or living rooms with a spacious feel
 
+ - For specific room types:
+    - Bedrooms: usually 8–9 ft
+    - Basements: often 7–8 ft
+    - Commercial buildings/classrooms: commonly 9–12 ft+
+ - If you were asking about the best height for comfort, acoustics, or reducing echo:
+    Around 8.5–10 ft is often a good balance
+    Very tall ceilings can increase echo unless treated with furniture, rugs, curtains, acoustic panels, etc.
+ - best way to reduce echo is texture (rugs, carpet, acoutic panels etc)
+ - my gf told me about the foundation depth is 1/3 of the house height, 
+   chatgpt says it's outdated and there's many things to consider, 
+   this needs to be research thoroughly
+ -  light 
+     - 1600+ lumen for focus/study
+     - my current fave light bulb is philips's smart LED 
+       https://www.lighting.philips.ca/consumer/p/smart-led-bulb-100w-a21-e26/046677575335 
+     - kelvin = color higher is colder white
+         - 3500K + study, (i dont remember the minimum)
+         - 3500K - chill or bedrooms
+ - use dear modern/cliff tan's fengshui tips
+
+
+
+App ideas 
+ - Constellation of thoughts
+     - tree nodes
+
+
+https://www.youtube.com/shorts/kTaW_SlM4nw
